@@ -1,0 +1,2 @@
+# Nameow
+Python practices
